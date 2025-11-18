@@ -22,7 +22,7 @@ The project includes:
 
 
 # best for now !
-![Interactive Route Map](results/summary/fitness_curve.png)
+![Interactive Route Map](results/summary/fitness_all_runs.png)
 *Figure 3: Best fitness curve in multiple runs.*
 
 # 1. Features
