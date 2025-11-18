@@ -22,8 +22,8 @@ The project includes:
 
 
 # best for now !
-![Interactive Route Map](results/summary/best_distance_boxplot.png)
-*Figure 3: Best distance over generations in multiple runs.*
+![Interactive Route Map](results/summary/fitness_curve.png)
+*Figure 3: Best fitness curve in multiple runs.*
 
 # 1. Features
 
