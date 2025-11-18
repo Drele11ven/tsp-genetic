@@ -1,0 +1,14 @@
+{
+  "best_run_folder": "2025-11-18_21-02-20",
+  "final_best": 737.5442846038428,
+  "config": {
+    "population": 200,
+    "generations": 500,
+    "elite_size": 5,
+    "mutation_rate": 0.02,
+    "tournament_k": 3,
+    "random_seed": 0,
+    "cities": 15,
+    "timestamp": "2025-11-18_21-02-20"
+  }
+}

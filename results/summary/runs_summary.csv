@@ -1,0 +1,4 @@
+run_folder,final_best,generations,cfg_population,cfg_generations,cfg_elite_size,cfg_mutation_rate,cfg_tournament_k,cfg_random_seed,cfg_cities,cfg_timestamp
+2025-11-18_21-02-20,737.5442846038428,500,200,500,5,0.02,3,0,15,2025-11-18_21-02-20
+2025-11-18_21-05-19,755.4027291436863,250,100,250,2,0.052,2,0,15,2025-11-18_21-05-19
+2025-11-18_21-06-12,737.5442846038429,400,300,400,3,0.02,2,0,15,2025-11-18_21-06-12

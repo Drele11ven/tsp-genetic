@@ -1,0 +1,10 @@
+{
+  "population": 300,
+  "generations": 400,
+  "elite_size": 3,
+  "mutation_rate": 0.02,
+  "tournament_k": 2,
+  "random_seed": 0,
+  "cities": 15,
+  "timestamp": "2025-11-18_21-06-12"
+}
