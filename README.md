@@ -82,8 +82,8 @@ Fixed number of generations.
 
 ## 4.1 Clone Repository
 ```bash
-git clone https://github.com/<YOUR_USERNAME>/<REPO_NAME>.git
-cd <REPO_NAME>
+git clone https://github.com/Drele11ven/tsp-genetic
+cd tsp-genetic
 ```
 
 ## 4.2 Create Virtual Environment
